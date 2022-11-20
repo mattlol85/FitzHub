@@ -1,10 +1,10 @@
-package org.fitznet.doomdns.fitzhub;
+package org.fitznet.doomdns.fitzhubapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FitzHubApplicationTests {
+class FitzHubApiApplicationTests {
 
     @Test
     void contextLoads() {
